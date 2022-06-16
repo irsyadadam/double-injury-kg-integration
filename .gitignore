@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#get rid of all data
+*.txt
+*.csv
+*.pdf
+*.tsv
+
